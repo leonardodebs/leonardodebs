@@ -6,7 +6,7 @@
 Sobre mim:
 
 🧔🏻‍♂ Formado em Segurança da Informação <br>
-👨‍💻 Analista de Infra/Cloud/DevOps <br>
+👨‍💻 Analista de Infra/Cloud <br>
 👓 Consultor Tech <br>
 🚩 Goiânia-GO/BR <br>
 💻 Aqui faço upload dos meus aprendizados <br>
