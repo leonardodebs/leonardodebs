@@ -21,10 +21,9 @@ Skills:
   <img src=https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg width="40" height="40"/>&nbsp;
   <img src=https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg width="40" height="40"/>&nbsp; 
   <img src=https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg width="40" height="40"/>&nbsp; 
-  <img src=https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg width="40" height="40"/>&nbsp; 
-  <img src=https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg width="40" height="40"/>&nbsp; 
+   <img src=https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg width="40" height="40"/>&nbsp; 
   <img src=https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg  width="40" height="40"/>&nbsp;
-  <img src=https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg  width="40" height="40"/>&nbsp;
+ 
   
   
  
