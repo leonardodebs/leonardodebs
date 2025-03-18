@@ -13,7 +13,7 @@
 
 - Linguagens: Python, JavaScript, SQL
 - Frameworks: React, Node.js
-- Banco de Dados: PostgreSQL, MySQL, DynamoDB
+- Banco de Dados: PostgreSQL, MySQL, RDS, DynamoDB
 - Ferramentas: AWS, Terraform, Docker, Kubernetes, Git, VS Code, DBeaver
 
 ---
