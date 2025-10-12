@@ -42,9 +42,9 @@
 ---
 
 ### 📂 Projetos em Destaque
-- **[s3_file_uploader_gui](https://github.com/leonardodebs/s3_file_uploader_gui)** – Aplicativo Python/GUI para upload de arquivos grandes para S3  
-- **[terraform-aws-infra](https://github.com/leonardodebs/terraform-aws-infra)** – Infraestrutura AWS automatizada com Terraform  
-- **[ansible-django-deploy](https://github.com/leonardodebs/ansible-django-deploy)** – Playbooks para deploy de aplicações Django  
+- **[s3_file_uploader_gui](https://github.com/leonardodebs/upar_aws)** – Aplicativo Python/GUI para upload de arquivos grandes para S3  
+- **[terraform-aws-infra](https://github.com/leonardodebs/iac_terraform_aws)** – Infraestrutura AWS automatizada com Terraform  
+- **[Terraform](https://github.com/leonardodebs/terraform-basico-ao-avancado)** – Terraform Básico ao Avançado
 
 ---
 
