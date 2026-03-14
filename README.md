@@ -42,10 +42,16 @@
 ---
 
 ### 📂 Projetos em Destaque
-- **[s3_file_uploader_gui](https://github.com/leonardodebs/upar_aws)** – Aplicativo Python/GUI para upload de arquivos grandes para S3  
-- **[terraform-aws-infra](https://github.com/leonardodebs/iac_terraform_aws)** – Infraestrutura AWS automatizada com Terraform  
-- **[Terraform](https://github.com/leonardodebs/terraform-basico-ao-avancado)** – Terraform Básico ao Avançado
 
+- **[My Finance Hub](https://github.com/leonardodebs/my-finance-hub)** – Aplicação Full-Stack de finanças pessoais com React, Node.js e PostgreSQL, arquitetura multi-tenant, autenticação JWT e gráficos interativos.
+
+- **[NinjaDex Naruto](https://github.com/leonardodebs/ninjadex-naruto)** – Aplicação web inspirada no universo Naruto para exploração de personagens e dados da série, utilizando frontend moderno e consumo de APIs.
+
+- **[s3_file_uploader_gui](https://github.com/leonardodebs/upar_aws)** – Aplicativo Python com interface gráfica para upload de arquivos grandes para Amazon S3.
+
+- **[terraform-aws-infra](https://github.com/leonardodebs/iac_terraform_aws)** – Infraestrutura AWS automatizada com Terraform (VPC, EC2, Auto Scaling e boas práticas de IaC).
+
+- **[Terraform: Básico ao Avançado](https://github.com/leonardodebs/terraform-basico-ao-avancado)** – Repositório de estudos e exemplos práticos de Terraform para provisionamento de infraestrutura em cloud.
 ---
 
 ### 📊 Estatísticas
