@@ -1,60 +1,111 @@
 # Olá! Eu sou Leonardo 👋
 
-### 🔹 Sobre mim
+Cloud & Infrastructure Engineer apaixonado por automação, Linux, AWS e desenvolvimento potencializado por Inteligência Artificial.
+
+Atuo na interseção entre **infraestrutura, cloud computing e engenharia de software**, construindo soluções escaláveis e automatizadas utilizando tecnologias modernas.
+
+---
+
+# 🔹 Sobre mim
+
 - 🧔🏻‍♂ Formado em Segurança da Informação  
-- 👨‍💻 Analista de Infraestrutura e Cloud  
-- 👓 Consultor Tech  
-- 🌍 Goiânia-GO, Brasil  
-- 💡 Apaixonado por Cloud, Linux, DevOps e automação  
-- 🚀 Compartilho projetos, aprendizados e contribuições open source  
+- ☁️ Analista de Infraestrutura e Cloud  
+- 🧠 Explorando AI-assisted development e engenharia de prompts  
+- 🐧 Especialista em ambientes Linux  
+- ⚙️ Automação de infraestrutura e processos  
+- 🌎 Goiânia-GO, Brasil  
+
+Gosto de criar projetos práticos que conectam **cloud, automação e desenvolvimento moderno**, explorando como a Inteligência Artificial pode acelerar a construção de sistemas.
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
-- **Linguagens:** Python, JavaScript, SQL  
-- **Frameworks:** React, Node.js  
-- **Bancos de Dados:** PostgreSQL, MySQL, RDS, DynamoDB  
-- **Cloud & Infra:** AWS, Azure, Terraform, Docker, Kubernetes  
-- **Outras Ferramentas:** Git, VS Code, DBeaver, Bash  
+# 🛠️ Tecnologias & Ferramentas
+
+### Cloud & Infra
+AWS • Azure • Oracle • Terraform • Docker • Kubernetes • Linux • Windows Server
+
+### Desenvolvimento
+Python • JavaScript • Node.js • React • SQL
+
+### Bancos de Dados
+PostgreSQL • MySQL • Amazon RDS • DynamoDB
+
+### Ferramentas
+Git • VS Code • Bash • DBeaver • Google Antigravity
 
 ---
 
-### 🏅 Certificações & Badges
-- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/b0e3411f-c577-49f9-acde-5bae79461e0f/linked_in_profile)  
-- [AWS Cloud Quest: Cloud Practitioner](https://www.credly.com/badges/ea0d8a92-cb97-4925-9639-a7ed343346e4/linked_in_profile)  
-- [AWS Partner: Technical Accredited](https://www.credly.com/badges/00c12951-f838-472a-b155-81478ec41755/linked_in_profile)  
+# 🏅 Certificações
+
+- AWS Certified Cloud Practitioner  
+- AWS Cloud Quest: Cloud Practitioner  
+- AWS Partner: Technical Accredited  
 
 ---
 
-### 🔧 Skills
+# 🔧 Skills
+
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40"/> Linux  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" width="40" height="40"/> Windows  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40"/> AWS  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="40" height="40"/> Azure  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" width="40" height="40"/> Terraform  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40"/> Bash  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40"/> Docker  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/> Kubernetes  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40"/> VS Code  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40"/>   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" width="40" height="40"/>   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40"/>   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="40" height="40"/>   
+  <img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/oracle/oracle-original.svg" width="40" height="40"/>   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" width="40" height="40"/>   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" width="40" height="40"/>   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40"/>   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40"/>   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>   
+  <img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/postgresql/postgresql-original.svg" width="40" height="40"/>   
+  <img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/python/python-original.svg" width="40" height="40"/>   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40"/>   
 </div>
 
+
+
+
 ---
 
-### 📂 Projetos em Destaque
+# 📂 Projetos em Destaque
 
-- **[My Finance Hub](https://github.com/leonardodebs/my-finance-hub)** – Aplicação Full-Stack de finanças pessoais com React, Node.js e PostgreSQL, arquitetura multi-tenant, autenticação JWT e gráficos interativos.
+### 💰 My Finance Hub
+Aplicação **Full-Stack** de finanças pessoais com React, Node.js e PostgreSQL.  
+Inclui arquitetura **multi-tenant**, autenticação JWT e dashboards com gráficos interativos.
 
-- **[NinjaDex Naruto](https://github.com/leonardodebs/ninjadex-naruto)** – Aplicação web inspirada no universo Naruto para exploração de personagens e dados da série, utilizando frontend moderno e consumo de APIs.
+https://github.com/leonardodebs/my-finance-hub
 
-- **[s3_file_uploader_gui](https://github.com/leonardodebs/upar_aws)** – Aplicativo Python com interface gráfica para upload de arquivos grandes para Amazon S3.
-
-- **[terraform-aws-infra](https://github.com/leonardodebs/iac_terraform_aws)** – Infraestrutura AWS automatizada com Terraform (VPC, EC2, Auto Scaling e boas práticas de IaC).
-
-- **[Terraform: Básico ao Avançado](https://github.com/leonardodebs/terraform-basico-ao-avancado)** – Repositório de estudos e exemplos práticos de Terraform para provisionamento de infraestrutura em cloud.
 ---
 
-### 📊 Estatísticas
+### 🥷 NinjaDex Naruto
+Aplicação web inspirada no universo Naruto para exploração de personagens e dados da série, consumindo APIs externas.
+
+https://github.com/leonardodebs/ninjadex-naruto
+
+---
+
+### ☁️ S3 File Uploader GUI
+Aplicativo Python com interface gráfica para upload de arquivos grandes para Amazon S3.
+
+https://github.com/leonardodebs/upar_aws
+
+---
+
+### 🏗️ Terraform AWS Infrastructure
+Infraestrutura AWS automatizada com Terraform incluindo VPC, EC2 e boas práticas de IaC.
+
+https://github.com/leonardodebs/iac_terraform_aws
+
+---
+
+### 📚 Terraform: Básico ao Avançado
+Repositório de estudos com exemplos práticos de Terraform para provisionamento de infraestrutura.
+
+https://github.com/leonardodebs/terraform-basico-ao-avancado
+
+---
+
+# 📊 Estatísticas
+
 <div align="left">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardodebs&show_icons=true&theme=bear&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=leonardodebs&show_icons=true&theme=bear&count_private=true"/>
@@ -62,6 +113,7 @@
 
 ---
 
-### 🌐 Conecte-se comigo
-- [LinkedIn](https://www.linkedin.com/in/leonardo-debs/)  
+# 🌐 Conecte-se comigo
 
+LinkedIn  
+https://www.linkedin.com/in/leonardo-debs/
