@@ -43,67 +43,125 @@ Git • VS Code • Bash • DBeaver • Google Antigravity
 
 ---
 
-# 🔧 Skills
+# 📂 Projetos em Destaque
 
-<div>
+## 🔐 AWS Security Audit Tool
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40"/><br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" width="40" height="40"/><br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40"/><br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="40" height="40"/><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/oracle/oracle-original.svg" width="40" height="40"/><br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" width="40" height="40"/><br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" width="40" height="40"/><br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40"/><br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40"/><br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/postgresql/postgresql-original.svg" width="40" height="40"/><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/python/python-original.svg" width="40" height="40"/><br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
+Ferramenta de **auditoria automatizada de segurança para ambientes AWS**, desenvolvida para identificar configurações inseguras e auxiliar na governança de contas cloud.
 
-</div>
+### Principais funcionalidades
 
+- 🔍 Análise de permissões **IAM**
+- 🔐 Verificação de segurança de **buckets S3**
+- ⚠️ Detecção automática de **configurações incorretas (misconfigurations)**
+- 📊 Geração de **relatórios de segurança automatizados**
 
+### Stack utilizada
+
+AWS • Python • Auditoria de Segurança • Automação
+
+🔗 Repositório  
+https://github.com/leonardodebs/AWS-Security-Audit-Tool
 
 ---
 
-# 📂 Projetos em Destaque
+## ☁️ Upload de Arquivos Grandes para AWS S3
 
-### 💰 My Finance Hub
-Aplicação **Full-Stack** de finanças pessoais com React, Node.js e PostgreSQL.  
-Inclui arquitetura **multi-tenant**, autenticação JWT e dashboards com gráficos interativos.
+Aplicação desktop desenvolvida em **Python com interface gráfica** para realizar upload de arquivos grandes (até **100GB**) para **Amazon S3**, utilizando **multipart upload** para maior confiabilidade e desempenho durante transferências.
 
+### Principais funcionalidades
+
+- 🖥 Interface gráfica simples para seleção de arquivos
+- 🚀 Upload otimizado utilizando **S3 Multipart Upload**
+- 📦 Suporte para transferência de **arquivos de grande porte**
+- ☁️ Integração direta com **Amazon S3**
+
+### Stack utilizada
+
+Python • AWS S3 • Boto3 • Interface Gráfica
+
+🔗 Repositório  
+https://github.com/leonardodebs/s3_file_uploader_gui
+
+---
+
+## 🏗️ Terraform AWS Infrastructure
+
+Projeto de **Infraestrutura como Código (IaC)** utilizando **Terraform** para provisionamento automatizado de recursos na AWS.
+
+### Principais recursos
+
+- 🌐 Criação de **VPC personalizada**
+- ⚖️ Configuração de **Auto Scaling Group**
+- 🚀 Provisionamento de instâncias via **Launch Templates**
+- 🌎 Arquitetura preparada para **alta disponibilidade (Multi-AZ)**
+
+### Stack utilizada
+
+Terraform • AWS • Infrastructure as Code
+
+🔗 Repositório  
+https://github.com/leonardodebs/terraform-basico-ao-avancado
+
+---
+
+## 💰 My Finance Hub
+
+Aplicação **Full-Stack de gestão financeira pessoal**, desenvolvida para controle de despesas e receitas com dashboards interativos.
+
+### Principais recursos
+
+- 📊 Dashboard com **visualização de dados financeiros**
+- 👤 Sistema de **autenticação com JWT**
+- 🏢 Arquitetura **multi-tenant**
+- 🗄 Persistência de dados em **PostgreSQL**
+
+### Stack utilizada
+
+React • Node.js • PostgreSQL • JWT
+
+🔗 Repositório  
 https://github.com/leonardodebs/my-finance-hub
 
 ---
 
-### 🥷 NinjaDex Naruto
-Aplicação web inspirada no universo Naruto para exploração de personagens e dados da série, consumindo APIs externas.
+## 🥷 NinjaDex Naruto
 
+Aplicação web inspirada no universo **Naruto**, desenvolvida para explorar personagens, clãs e habilidades da série através de consumo de APIs externas.
+
+### Principais recursos
+
+- 🧑‍🎤 Listagem de personagens
+- 🔎 Consulta de informações detalhadas
+- 🌐 Integração com **APIs públicas**
+- 📱 Interface web interativa
+
+### Stack utilizada
+
+JavaScript • APIs REST • Frontend Web
+
+🔗 Repositório  
 https://github.com/leonardodebs/ninjadex-naruto
 
 ---
 
-### ☁️ S3 File Uploader GUI
-Aplicativo Python com interface gráfica para upload de arquivos grandes para Amazon S3.
+## 📚 Terraform: Básico ao Avançado
 
-https://github.com/leonardodebs/upar_aws
+Repositório de **estudos práticos de Terraform**, com exemplos progressivos para aprendizado de **Infraestrutura como Código na AWS**.
 
----
+### Conteúdo abordado
 
-### 🏗️ Terraform AWS Infrastructure
-Infraestrutura AWS automatizada com Terraform incluindo VPC, EC2 e boas práticas de IaC.
+- 📦 Criação de recursos básicos
+- 🌐 Provisionamento de redes (**VPC**)
+- ⚙️ Automação de infraestrutura
+- ☁️ Boas práticas para ambientes AWS
 
-https://github.com/leonardodebs/iac_terraform_aws
-
----
-
-### 📚 Terraform: Básico ao Avançado
-Repositório de estudos com exemplos práticos de Terraform para provisionamento de infraestrutura.
-
+🔗 Repositório  
 https://github.com/leonardodebs/terraform-basico-ao-avancado
 
+
 ---
+
 
 # 📊 Estatísticas
 
