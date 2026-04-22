@@ -45,7 +45,7 @@ Git • VS Code • Bash • DBeaver • Google Antigravity
 
 ## 🚀 Projetos em Destaque
 
----
+
 
 ## ☁️ Cloud / DevOps Projects
 
