@@ -273,9 +273,14 @@ Aplicação baseada em **inteligência artificial para aprendizado de inglês**,
 
 ## 📊 Estatísticas
 
-<div align="left">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardodebs&show_icons=true&theme=bear&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=leonardodebs&show_icons=true&theme=bear&count_private=true"/>
+<div align="center">
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leonardodebs&theme=github_dark"/>
+  <br/>
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leonardodebs&theme=github_dark"/>
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leonardodebs&theme=github_dark"/>
+  <br/>
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leonardodebs&theme=github_dark"/>
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=leonardodebs&theme=github_dark&utcOffset=-3"/>
 </div>
 
 ---
