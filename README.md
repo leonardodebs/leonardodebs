@@ -70,13 +70,6 @@ Git • VS Code • DBeaver • GLPI
 
 * 🎓 **AWS Certified Cloud Practitioner** (CLF-C01), Amazon Web Services
 * 🎓 **Tecnólogo em Segurança da Informação**, Senac Goiás
-* 📘 Terraform, Docker & ECS na AWS (Alura)
-* 📘 CI/CD com Kubernetes na AWS (Alura)
-* 📘 Oracle Cloud Infrastructure (Alura)
-* 📘 Pentest em Aplicações Web (Alura)
-* 📘 Formação Infraestrutura como Código: Terraform e Ansible (Alura)
-* 📘 Formação Segurança e DevSecOps (Alura)
-* 📘 Monitoramento com Zabbix (Udemy)
 
 ## 🔭 No momento
 
