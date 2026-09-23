@@ -29,7 +29,6 @@ Engenheiro de Infraestrutura Cloud atuando com AWS e Oracle OCI em ambientes mul
 
 ## 🔹 Sobre mim
 
-* 💼 Analista de Infraestrutura Pleno na Wareline (AWS e Oracle OCI multi-cliente, setor de saúde, conformidade LGPD)
 * 🎓 Tecnólogo em Segurança da Informação (Senac Goiás)
 * 📜 AWS Certified Cloud Practitioner (CLF-C01)
 * ☁️ Trajetória de baixo para cima: do suporte técnico a Especialista de TI, hoje focado em cloud
