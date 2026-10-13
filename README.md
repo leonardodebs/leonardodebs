@@ -25,7 +25,7 @@
 
 ---
 
-Engenheiro de Infraestrutura Cloud atuando com AWS e Oracle OCI em ambientes multi-cliente de produção. Trabalho na interseção entre infraestrutura, cloud computing e automação, construindo soluções escaláveis, seguras e versionadas como código.
+DevOps Cloud Engineer atuando com AWS e Oracle OCI em ambientes multi-cliente de produção. Trabalho na interseção entre infraestrutura, cloud computing e automação, construindo soluções escaláveis, seguras e versionadas como código.
 
 ## 🔹 Sobre mim
 
