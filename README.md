@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou Leonardo 👋</h1>
 
 <p align="center">
-  <b>Cloud & Infrastructure Engineer</b><br>
+  <b>DevOps & Cloud  Engineer</b><br>
   AWS • Oracle OCI • Terraform • DevOps
 </p>
 
